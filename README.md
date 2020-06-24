@@ -8,11 +8,10 @@ Dependencies (Verified to work):
 - matplolib (>=3.2.2)
 
 <h2>First version:</h2>
+
 - Defines classes AL_MODEL() and CORPUS().
 
 - Allows change in the sampling function
-
-- Allows committee based querying (not implemented yet)
 
 - allows the use of toysets, where the whole dataset is labeled but a part of it is considered unlabeled (for testing of different active learning strategies)
 
