@@ -33,4 +33,5 @@ Execute the following steps
 
 3) run "python test.py" (tested on linux ubuntu)
 
-
+<h3> Starter code </h3>
+The implementation of the CRF uses the sklearn-crfsuite library, and part of the code was taken from the sklearn-crfsuite's github: https://github.com/TeamHG-Memex/sklearn-crfsuite/blob/master/docs/CoNLL2002.ipynb
